@@ -12,6 +12,7 @@ I build scalable APIs, backend systems, and ML-powered applications.
 Contributing consistently and building impactful software.
 
 📫 Reach me:
+
    email: faizan.kk889@gmail.com
 
-    LinkedIn: https://www.linkedin.com/in/faizan-ahamad-khan-32032825b/
+   LinkedIn: https://www.linkedin.com/in/faizan-ahamad-khan-32032825b/
