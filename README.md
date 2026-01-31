@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Faizan 👋
 
-<!--
-**fayzkk889/fayzkk889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Engineer | C++ Systems | Machine Learning  
+I build scalable APIs, backend systems, and ML-powered applications.
 
-Here are some ideas to get you started:
+## 🔥 Current Projects
+- Multithreaded HTTP Server in C++
+- SkillBridge (Freelancer Startup Platform)
+- IIMPS (Intelligent Incident Monitoring and Prediction System)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Open Source Goal
+Contributing consistently and building impactful software.
+
+📫 Reach me:
+   email: faizan.kk889@gmail.com
+   LinkedIn: https://www.linkedin.com/in/faizan-ahamad-khan-32032825b/
