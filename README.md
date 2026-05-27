@@ -1,6 +1,6 @@
 # Hi, I'm Faizan 👋
 
-🚀 Vibe Coder | Backend Engineer | Golang | C++ Systems | Machine Learning  
+AI Engineer | Backend Engineer | Golang | C++ Systems | Machine Learning  
 
 I build scalable APIs, backend systems, and ML-powered applications. 
 
