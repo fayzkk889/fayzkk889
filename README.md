@@ -8,7 +8,7 @@ I love to build stuff and ship fast.
 
 ## 🔥 Current Projects
 - Project Lore: An AI coding Agent which remembers and teaches, Check it out @ https://loredev.co
-- MCP Shield: Security scanner for MCP servers. Think ESLint + Snyk, but for the Model Context Protocol.
+- MCP Shield: Security scanner for MCP servers. Think ESLint + Snyk, but for the Model Context Protocol. Checkout the Repo or the site : https://mcpsense.site
 - AuraCV: Free AI-powered ATS resume builder and optimizer.  
 ## 🌱 Open Source Goal
 Contributing consistently and building impactful software.
